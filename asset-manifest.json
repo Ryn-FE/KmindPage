@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/KmindPage/static/css/main.7fb407c4.chunk.css",
+    "main.js": "/KmindPage/static/js/main.1463ee48.chunk.js",
+    "main.js.map": "/KmindPage/static/js/main.1463ee48.chunk.js.map",
+    "runtime-main.js": "/KmindPage/static/js/runtime-main.285b71f4.js",
+    "runtime-main.js.map": "/KmindPage/static/js/runtime-main.285b71f4.js.map",
+    "static/css/2.b73e18b6.chunk.css": "/KmindPage/static/css/2.b73e18b6.chunk.css",
+    "static/js/2.d6ebbdc0.chunk.js": "/KmindPage/static/js/2.d6ebbdc0.chunk.js",
+    "static/js/2.d6ebbdc0.chunk.js.map": "/KmindPage/static/js/2.d6ebbdc0.chunk.js.map",
+    "static/js/3.5262eaf5.chunk.js": "/KmindPage/static/js/3.5262eaf5.chunk.js",
+    "static/js/3.5262eaf5.chunk.js.map": "/KmindPage/static/js/3.5262eaf5.chunk.js.map",
+    "index.html": "/KmindPage/index.html",
+    "static/css/2.b73e18b6.chunk.css.map": "/KmindPage/static/css/2.b73e18b6.chunk.css.map",
+    "static/css/main.7fb407c4.chunk.css.map": "/KmindPage/static/css/main.7fb407c4.chunk.css.map",
+    "static/js/2.d6ebbdc0.chunk.js.LICENSE.txt": "/KmindPage/static/js/2.d6ebbdc0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.285b71f4.js",
+    "static/css/2.b73e18b6.chunk.css",
+    "static/js/2.d6ebbdc0.chunk.js",
+    "static/css/main.7fb407c4.chunk.css",
+    "static/js/main.1463ee48.chunk.js"
+  ]
+}
